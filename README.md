@@ -12,7 +12,7 @@ $ cp app/.env.example app/.env
 ```
 
 ## Run project in Docker
-### 1. Update .env file
+### 1. Update app/.env file
 ```python
 # postgres
 POSTGRES_HOST=db
@@ -41,7 +41,7 @@ $ source <venv_name>/bin/activate
 ```bash
 (venv_name)$ pip install -r app/requirements.txt
 ```
-### 4. Update .env file
+### 4. Update app/.env file
 ```python
 # postgres
 POSTGRES_HOST=localhost
