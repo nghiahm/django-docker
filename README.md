@@ -21,7 +21,7 @@ POSTGRES_HOST=db
 ```bash
 $ docker compose up -d
 ```
-The server runs at: http://0.0.0.0:8000/\
+The server runs at: http://0.0.0.0:8000/ \
 Login as superuser at: http://0.0.0.0:8000/admin/
 - Username: admin
 - Password: admin123
