@@ -6,7 +6,7 @@
 $ git clone https://github.com/nghiahm/django-docker.git
 $ cd django-docker
 ```
-### 2. Create Django environment file
+### 2. Create Django app environment file
 ```bash
 $ cp app/.env.example app/.env
 ```
